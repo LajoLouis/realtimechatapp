@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gupter:wght@400;500;700&family=Playwrite+AT:ital,wght@0,100..400;1,100..400&family=Sevillana&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
